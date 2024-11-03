@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+textblob
+joblib
+numpy
+langchain
+matplotlib
+langchain_openai
+langchain_groq
+langchain_experimental
